@@ -241,6 +241,13 @@ nav {
 // .main
 //
 
+.post-date {
+  font-size: 15px;
+  color: $gray;
+  float: right;
+  margin-right: 10px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
