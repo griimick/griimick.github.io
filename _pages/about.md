@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full-stack developer. Always to ready to find solutions for problems. Currently in a state of self introspection and effeciency assessment. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Detailed information in sugar coated words will appear here soon :>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[griimick@gmail.com](mailto:griimick@gmail.com)
